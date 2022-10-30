@@ -47,4 +47,3 @@ def gethash(image_name):
     print(hash_hex)
     return hash_hex
 
-gethash("시간표.png")
